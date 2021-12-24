@@ -1,0 +1,13 @@
+[ 
+  { 
+     
+    "name": "main", 
+     
+    "content": { 
+      "url": "http://localhost:5000/static/content/BeatSaber - Caramelldansen.mp4", 
+      "online": true, 
+      "aspect_ratio": "normal"  
+      }
+      
+  } 
+]
