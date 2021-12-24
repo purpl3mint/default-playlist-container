@@ -4,7 +4,7 @@
     "name": "main", 
      
     "content": { 
-      "url": "http://localhost:5000/static/content/BeatSaber - Caramelldansen.mp4", 
+      "url": "https://frozen-sands-02988.herokuapp.com/content/Caramelldansen.mp4", 
       "online": true, 
       "aspect_ratio": "normal"  
       }
