@@ -4,7 +4,7 @@
     "name": "main", 
      
     "content": { 
-      "url": "https://frozen-sands-02988.herokuapp.com/content/Caramelldansen.mp4", 
+      "url": "http://frozen-sands-02988.herokuapp.com/content/Caramelldansen.mp4", 
       "online": true, 
       "aspect_ratio": "normal"  
       }
